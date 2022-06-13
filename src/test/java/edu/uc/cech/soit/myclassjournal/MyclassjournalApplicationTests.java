@@ -59,10 +59,6 @@ class MyclassjournalApplicationTests {
                 break;
             }
         }
-
         assertTrue(journalEntryPresent);
-
-
     }
-
 }
