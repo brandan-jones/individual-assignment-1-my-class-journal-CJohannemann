@@ -13,8 +13,4 @@ public class MyClassJournalController {
         return "index";
     }
 
-    @RequestMapping("/error")
-    public String error(){
-        return "404";
-    }
 }
